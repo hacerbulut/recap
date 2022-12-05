@@ -1,0 +1,28 @@
+div{
+    display: inline;
+    padding: 20px;
+    border: 2px solid red;
+    border-radius: 15px;
+    background-color: antiquewhite;
+}
+div:hover{
+    color: white;
+    background-color: aquamarine;
+    cursor: pointer;
+    font-size: 40px;
+    box-shadow: 8px 10px 20px blue;
+    text-shadow: 4px 4px 4px red;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    margin:50px ;
+    color: chocolate;
+    border: 2px solid red;
+    width: 10%;
+    text-align: center;
+    border-radius: 15px;
+    background-color:azure;
+
+
+}

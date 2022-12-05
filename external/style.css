@@ -1,0 +1,33 @@
+body{
+ 
+}
+h1{
+    text-align: center;
+    color: brown;
+
+}
+.list{
+    list-style-type: none;
+    text-align: center;
+    margin: 20px;
+    height: 40px;
+}
+li{
+    padding: 10px 20px;
+
+    float: left;
+    margin: 20px;
+    text-align: center;background-color:antiquewhite;
+    color:brown;
+    width: 90px;
+    font-size: 20px;
+    border: 2px solid antiquewhite;
+    border-radius: 10px;
+
+}
+li:hover{
+    font-size: 30px;
+    background-color:coral;
+    cursor: pointer;
+    text-shadow: 2px 2px 2px 2px solid white;
+}
